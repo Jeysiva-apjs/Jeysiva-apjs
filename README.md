@@ -1,7 +1,7 @@
 - Greetings, I'm Jey!
 - I am a software engineer.
-- Working on few cool personal projects as well. 
-- Feel free to connect with me through email at jeysiva.apjs@gmail.com or
+- Expanding my expertise in AI, machine learning, and data scienc to tackle real-world challenges.
+- Feel free to connect with me through email at jeysiva.ai@gmail.com or
 - Reach out on LinkedIn via https://www.linkedin.com/in/jeysiva-apjs.
 
 <!---
