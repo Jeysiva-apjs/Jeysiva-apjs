@@ -1,4 +1,4 @@
-- Greetings, I'm Jey!
+- Hello, I'm Jey!
 - I am a software engineer.
 - Expanding my expertise in AI, machine learning, and data scienc to tackle real-world challenges.
 - Feel free to connect with me through email at jeysiva.ai@gmail.com or
