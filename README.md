@@ -17,7 +17,7 @@ Currently expanding my expertise in Java Backend Development.
 ## Let's Connect
 
 - Email: [jeysiva.ai@gmail.com](mailto:jeysiva.ai@gmail.com)
--  LinkedIn: [linkedin.com/in/jeysiva-apjs](https://www.linkedin.com/in/jeysiva)
+-  LinkedIn: [linkedin.com/in/jeysiva](https://www.linkedin.com/in/jeysiva)
 
 Thanks for stopping by!
 
