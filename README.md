@@ -4,7 +4,6 @@ I'm a Software Engineer with 3.5 years of experience building and maintaining en
 
 Currently expanding my expertise in Java Backend Development. 
 
----
 
 ## Tech Stack
 
