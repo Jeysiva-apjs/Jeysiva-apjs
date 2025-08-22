@@ -1,10 +1,25 @@
-- Hello, I'm Jey!
-- I am a software engineer.
-- Expanding my expertise in AI, machine learning, and data scienc to tackle real-world challenges.
-- Feel free to connect with me through email at jeysiva.ai@gmail.com or
-- Reach out on LinkedIn via https://www.linkedin.com/in/jeysiva-apjs.
+# Hello, I'm Jey!
 
-<!---
-Jeysiva-apjs/Jeysiva-apjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Engineer with 3.5 years of experience building and maintaining enterprise-grade applications. I specialize in backend development using Java, Spring Boot, and RESTful APIs, with a strong focus on writing clean, maintainable code that solves real-world problems.
+
+Currently expanding my expertise in Java Backend Development. 
+
+---
+
+## Tech Stack
+
+- **Languages:** Java, Python  
+- **Backend:** Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, MySQL  
+- **API Development:** RESTful APIs, JWT Authentication, Role-Based Access Control  
+- **Testing & Docs:** JUnit 5, Mockito, Postman, Swagger  
+- **DevOps & Tools:** Git, GitHub, Maven, Docker (Basics), IntelliJ IDEA, VS Code  
+
+
+## Let's Connect
+
+- Email: [jeysiva.ai@gmail.com](mailto:jeysiva.ai@gmail.com)
+-  LinkedIn: [linkedin.com/in/jeysiva-apjs](https://www.linkedin.com/in/jeysiva-apjs)
+
+Thanks for stopping by!
+
+
