@@ -1,10 +1,10 @@
-# Hello, I'm Jey! 👋
+# Hello, I'm Jey! 
 
 Senior Java Backend Developer with **4+ years** of experience designing and building distributed, event-driven microservices for travel-tech and ERP platforms.
 
 I work on cruise booking systems at IBS Software — building resilient service-to-service communication with **Kafka, Resilience4j, and Feign**, and driving a **Spring Boot 2.4→3.2 / Java 11→17** migration across production services.
 
-🔭 **Currently building:** [Mini Booking Platform](https://github.com/Jeysiva-apjs/mini-booking-platform) — a multi-service booking system with Spring Boot 3, Kafka, Redis, JWT auth, Resilience4j, OpenTelemetry, and Docker.
+**Currently building:** [Mini Booking Platform](https://github.com/Jeysiva-apjs/mini-booking-platform) — a multi-service booking system with Spring Boot 3, Kafka, Redis, JWT auth, Resilience4j, OpenTelemetry, and Docker.
 
 ## Tech Stack
 
